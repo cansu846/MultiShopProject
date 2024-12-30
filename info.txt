@@ -1,0 +1,3 @@
+[BsonIgnore],
+uygulama içinde kullan?lan ancak MongoDB belgesine yaz?lmamas? gereken özellikleri i?aretlemek için kullan?l?r. 
+Bu, veri saklama mant???n? sadele?tirir, performans? art?r?r ve olas? serile?tirme hatalar?n? önler.
